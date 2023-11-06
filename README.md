@@ -1,9 +1,10 @@
 # Food Recipe App
 
 ## Demo
+![Screenshot 2023-11-06 at 11 51 47 AM](https://github.com/slee98/FoodRecipe/assets/74482315/3cb0a1b8-5792-439f-ae06-28867b93ebb4)
 
 
-This app is designed to browse recipes using the given API. 
+This app is designed to browse recipes using the provided API. 
 
 ## Features
 
